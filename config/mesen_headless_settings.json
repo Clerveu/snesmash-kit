@@ -1,0 +1,1 @@
+{"Debug":{"ScriptWindow":{"AllowIoOsAccess":true,"AllowNetworkAccess":true}},"Snes":{"Port1":{"Type":"SnesController"},"Port2":{"Type":"SnesController"},"RamPowerOnState":"AllZeros"}}

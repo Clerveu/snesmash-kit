@@ -1,0 +1,28 @@
+# Bring your own: never commit these
+ROMS/
+*.sfc
+*.smc
+*.nes
+*.gb
+*.gbc
+*.gba
+*.pce
+*.sms
+*.gg
+*.ws
+*.wsc
+*.zip
+*.7z
+
+# Emulator copies (docs/SETUP.md)
+mesen/
+mesen_headless/
+
+# Scratch output and game-derived state
+out/
+states/
+*.mss
+
+__pycache__/
+*.pyc
+.DS_Store

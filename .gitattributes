@@ -1,0 +1,9 @@
+* text=auto
+*.lua text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf
+*.mss binary
+*.bin binary
+*.png binary
+*.gif binary
